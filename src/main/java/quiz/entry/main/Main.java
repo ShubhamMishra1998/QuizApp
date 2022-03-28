@@ -26,8 +26,7 @@ public class Main {
 
 
        }else{
-           System.out.println("not correct");
-           return;
+           System.out.println("Wrong Crediantials Please login again!!");
        }
 
     }
